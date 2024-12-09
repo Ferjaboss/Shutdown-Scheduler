@@ -1,5 +1,9 @@
-#I Wrote this using VIM
-Okey So this Project wasn't meant to be created the story behind this is a need.
-i usually update my steam games at night this time i had a small update that's gonna take an hour so i said why don't i make a program that automate this task to me and useit whenever i need to 
-so here is me profiting two things enjoying coding and making smth usefull for me 
-PS you can use :wq! to quit vim ❤️
+## I Wrote this using VIM
+
+This project wasn't initially planned; it was born out of necessity.
+
+I often update my Steam games overnight, and during one update, I had a small patch that would take about an hour to finish. That’s when I thought, "Why not create a program that automates this process so I can use it whenever I need to?"
+
+So, here I am, combining my love for coding with the need for a useful tool. The result? A shutdown scheduler app that automates the process for me.
+
+P.S. If you're using Vim, don't forget to use :wq! to quit with a smile ❤️
